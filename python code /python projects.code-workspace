@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 13,
+		"jupyter.interactiveWindow.textEditor.autoMoveToNextCell": true,
+		"jupyter.interactiveWindow.textEditor.cellFolding": false,
+		"jupyter.interactiveWindow.codeLens.enable": true,
+		"jupyter.interactiveWindow.textEditor.normalizeSelection": true,
+		"jupyter.interactiveWindow.textEditor.executeSelection": true
+	}
+}
