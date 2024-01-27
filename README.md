@@ -1,0 +1,1 @@
+I've built a Python application that connects to the Spotify API. With it, we can browse the top 10 songs of any given artist and conduct a brief analysis. However, the application still requires further work and improvements :)
